@@ -65,7 +65,7 @@ Connecting to Ubuntu Virtual Machine via SSH .
 <br />
 
 <p>
-<img src="https://imgur.com/rBB7Xnk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/he4R6AG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Filtering for SSH traffic using Wireshark .
