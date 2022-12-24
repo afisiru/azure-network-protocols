@@ -80,18 +80,4 @@ Using ipconfig /renew to retrieve a new IP Address .
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/fP0lWWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Observed the ping request in windows 10 powershell ICMP traffic request has timed out .
-</p>
-<br />
 
-<p>
-<img src="https://imgur.com/fP0lWWS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Observed the ping request in windows 10 powershell ICMP traffic request has timed out .
-</p>
-<br />
